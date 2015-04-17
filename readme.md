@@ -23,7 +23,9 @@ Companion application to the e-book Implementing Laravel [https://github.com/fid
 ## O Livro
 
 Baixe o livro e me acompanhe nessa incrível jornada.
-[Implementing Laravel - Chris Fidao](https://leanpub.com/implementinglaravel)
+
+[![Imagem do Livro, Implementing Laravel - Chris Fidao]
+(https://s3.amazonaws.com/titlepages.leanpub.com/implementinglaravel/large?1425540933)](https://leanpub.com/implementinglaravel)
 
 ## Licença
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Atribuição  4.0 Internacional</a>.
