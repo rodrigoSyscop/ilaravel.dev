@@ -1,23 +1,29 @@
-## Laravel PHP Framework
+## Implementing Laravel - ilaravel
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+Ilaravel é um projeto de acompanhamento ao estudo, tradução e adaptação do livro [Implementing Laravel, Chris Fidao](https://leanpub.com/implementinglaravel). O Livro foi originalmente escrito para a versão 4.0 do Laravel, no entanto já estamos nas versões 4.2 e 5.0 (em breve 5.1) como mais recentes de cada versão do Laravel, ambas com novas ferramentas que não estão presentes no Livro. Por não ter mais tempo nem intenção de atualizar o livro, o author Chris Fidao decidiu disponibilizá-lo gratuitamente. 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+O livro aborda o desenvolvimento de um blog, a aplicação preferida de desenvolvedores de final de semana, mas o desenvolvimento se dá utilizando princípios de programação orientada a objetos como [SOLID](http://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) e outras boas práticas do core Laravel aprimoram a capacidade de teste, manutenção e ampliação da nossa aplicação.
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+Pode parecer só mais um livro ensinando o caminho das pedras do Laravel, através do desenvolvimento de uma simples aplicação. No entanto logo no início, podemos notar que se trata de muito mais. Logo após mencionar os princípios de design orientado a objetos - SOLID, Chris Fidao nos presenteia com a apresentação, teórica e prática, de conceitos chaves do Laravel, conceitos que foram mantidos e aprimorados nas versões mais recentes. Nos proporcionando um novo paradigma na forma de escrever aplicações web PHP. 
 
-## Official Documentation
+Apesar do livro se basear na versão 4.0 do framework, os conceitos de organização, padrões e boas práticas podem ser facilmente adaptados as versões mais recentes do framework. E é isso que tenho em mente com este projeto de acompanhamento da minha leitura do livro. Desenvolver a mesma aplicação, com todos os novos recursos fornecidos pela versão mais recente do Laravel mas seguindo a linha de raciocínio do [Fideloper](https://github.com/fideloper).
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+Espero que vocês fiquem deslumbrados, da mesma forma como fiquei, ao compreender a elegância do Laravel, uma obra prima pintada por [Taylor Otwell](https://github.com/taylorotwell) e que tem se tornando peça chave na era do renasciemnto do PHP.
 
-## Contributing
+Me acompanhem... 
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+## Projeto no GitHub
 
-### License
+Adaptação e tradução do Livro "Implement Laravel - Chris Fidao" para o Laravel 5. [https://github.com/RodrigoJimmy/ilaravel.dev](https://github.com/RodrigoJimmy/ilaravel.dev)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+## Projeto original
+
+Companion application to the e-book Implementing Laravel [https://github.com/fideloper/Implementing-Laravel](https://github.com/fideloper/Implementing-Laravel).
+
+## O Livro
+
+Baixe o livro e me acompanhe nessa incrível jornada.
+[Implementing Laravel - Chris Fidao](https://leanpub.com/implementinglaravel)
+
+## Licença
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Atribuição  4.0 Internacional</a>.
