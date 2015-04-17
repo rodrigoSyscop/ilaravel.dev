@@ -1,4 +1,4 @@
-<?php namespace App\Events;
+<?php namespace Ilaravel\core\Events;
 
 abstract class Event {
 

@@ -1,4 +1,4 @@
-<?php namespace App\Http\Controllers;
+<?php namespace Ilaravel\core\Http\Controllers;
 
 use Illuminate\Foundation\Bus\DispatchesCommands;
 use Illuminate\Routing\Controller as BaseController;
