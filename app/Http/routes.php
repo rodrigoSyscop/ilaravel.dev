@@ -20,8 +20,8 @@ Route::controllers([
 	'password' => 'Auth\PasswordController',
 ]);
 
-use Ilaravel\Core\Services\Payment\Paypal;
+
 Route::get('payment', function() {
-	$paypal = new Paypal;
+	$paypal = App::make('payment');
 	return $paypal->charge();
 });

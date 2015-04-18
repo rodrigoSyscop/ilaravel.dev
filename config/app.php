@@ -144,6 +144,7 @@ return [
 		'Ilaravel\Core\Providers\ConfigServiceProvider',
 		'Ilaravel\Core\Providers\EventServiceProvider',
 		'Ilaravel\Core\Providers\RouteServiceProvider',
+		'Ilaravel\Core\Providers\PaymentServiceProvider',
 
 	],
 
