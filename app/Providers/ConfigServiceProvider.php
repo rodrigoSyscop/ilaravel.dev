@@ -1,4 +1,4 @@
-<?php namespace Ilaravel\Core\Providers;
+<?php namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

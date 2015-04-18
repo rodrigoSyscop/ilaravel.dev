@@ -1,4 +1,4 @@
-<?php namespace Ilaravel\Core\Http\Controllers;
+<?php namespace App\Http\Controllers;
 
 class HomeController extends Controller {
 

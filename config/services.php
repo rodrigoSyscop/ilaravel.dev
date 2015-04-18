@@ -30,7 +30,7 @@ return [
 	],
 
 	'stripe' => [
-		'model'  => 'Ilaravel\Core\User',
+		'model'  => 'App\User',
 		'key' => '',
 		'secret' => '',
 	],

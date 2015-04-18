@@ -1,4 +1,4 @@
-<?php namespace Ilaravel\Core\Commands;
+<?php namespace App\Commands;
 
 abstract class Command {
 

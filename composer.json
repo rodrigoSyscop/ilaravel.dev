@@ -16,7 +16,7 @@
 			"database"
 		],
 		"psr-4": {
-			"Ilaravel\\core\\": "app/"
+			"App\\": "app/"
 		}
 	},
 	"autoload-dev": {
