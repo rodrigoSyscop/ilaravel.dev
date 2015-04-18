@@ -19,3 +19,9 @@ Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',
 ]);
+
+use Ilaravel\Core\Services\Payment\Paypal;
+Route::get('payment', function() {
+	$paypal = new Paypal;
+	return $paypal->charge();
+});
