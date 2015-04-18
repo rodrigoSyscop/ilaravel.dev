@@ -1,4 +1,4 @@
-<?php namespace Ilaravel\core\Console;
+<?php namespace Ilaravel\Core\Console;
 
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
@@ -11,7 +11,7 @@ class Kernel extends ConsoleKernel {
 	 * @var array
 	 */
 	protected $commands = [
-		'Ilaravel\core\Console\Commands\Inspire',
+		'Ilaravel\Core\Console\Commands\Inspire',
 	];
 
 	/**

@@ -1,4 +1,4 @@
-<?php namespace Ilaravel\core\Providers;
+<?php namespace Ilaravel\Core\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -27,7 +27,7 @@ class AppServiceProvider extends ServiceProvider {
 	{
 		$this->app->bind(
 			'Illuminate\Contracts\Auth\Registrar',
-			'Ilaravel\core\Services\Registrar'
+			'Ilaravel\Core\Services\Registrar'
 		);
 	}
 

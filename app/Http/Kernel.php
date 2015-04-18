@@ -1,4 +1,4 @@
-<?php namespace Ilaravel\core\Http;
+<?php namespace Ilaravel\Core\Http;
 
 use Illuminate\Foundation\Http\Kernel as HttpKernel;
 
@@ -15,7 +15,7 @@ class Kernel extends HttpKernel {
 		'Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse',
 		'Illuminate\Session\Middleware\StartSession',
 		'Illuminate\View\Middleware\ShareErrorsFromSession',
-		'Ilaravel\core\Http\Middleware\VerifyCsrfToken',
+		'Ilaravel\Core\Http\Middleware\VerifyCsrfToken',
 	];
 
 	/**
@@ -24,9 +24,9 @@ class Kernel extends HttpKernel {
 	 * @var array
 	 */
 	protected $routeMiddleware = [
-		'auth' => 'Ilaravel\core\Http\Middleware\Authenticate',
+		'auth' => 'Ilaravel\Core\Http\Middleware\Authenticate',
 		'auth.basic' => 'Illuminate\Auth\Middleware\AuthenticateWithBasicAuth',
-		'guest' => 'Ilaravel\core\Http\Middleware\RedirectIfAuthenticated',
+		'guest' => 'Ilaravel\Core\Http\Middleware\RedirectIfAuthenticated',
 	];
 
 }

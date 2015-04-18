@@ -1,4 +1,4 @@
-<?php namespace Ilaravel\core\Http\Requests;
+<?php namespace Ilaravel\Core\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 

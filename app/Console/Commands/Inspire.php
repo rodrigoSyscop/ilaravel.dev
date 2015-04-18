@@ -1,4 +1,4 @@
-<?php namespace Ilaravel\core\Console\Commands;
+<?php namespace Ilaravel\Core\Console\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Foundation\Inspiring;

@@ -1,4 +1,4 @@
-<?php namespace Ilaravel\core\Providers;
+<?php namespace Ilaravel\Core\Providers;
 
 use Illuminate\Routing\Router;
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;
@@ -12,7 +12,7 @@ class RouteServiceProvider extends ServiceProvider {
 	 *
 	 * @var string
 	 */
-	protected $namespace = 'Ilaravel\core\Http\Controllers';
+	protected $namespace = 'Ilaravel\Core\Http\Controllers';
 
 	/**
 	 * Define your route model bindings, pattern filters, etc.

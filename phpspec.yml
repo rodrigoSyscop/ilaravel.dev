@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: Ilaravel\core
-        psr4_prefix: Ilaravel\core
+        namespace: Ilaravel\Core
+        psr4_prefix: Ilaravel\Core
         src_path: app

@@ -1,4 +1,4 @@
-<?php namespace Ilaravel\core\Http\Middleware;
+<?php namespace Ilaravel\Core\Http\Middleware;
 
 use Closure;
 use Illuminate\Foundation\Http\Middleware\VerifyCsrfToken as BaseVerifier;

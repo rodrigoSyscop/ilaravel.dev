@@ -1,6 +1,6 @@
-<?php namespace Ilaravel\core\Services;
+<?php namespace Ilaravel\Core\Services;
 
-use Ilaravel\core\User;
+use Ilaravel\Core\User;
 use Validator;
 use Illuminate\Contracts\Auth\Registrar as RegistrarContract;
 

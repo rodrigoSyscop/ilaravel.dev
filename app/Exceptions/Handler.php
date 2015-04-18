@@ -1,4 +1,4 @@
-<?php namespace Ilaravel\core\Exceptions;
+<?php namespace Ilaravel\Core\Exceptions;
 
 use Exception;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;

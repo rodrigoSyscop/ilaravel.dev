@@ -1,4 +1,4 @@
-<?php namespace Ilaravel\core\Providers;
+<?php namespace Ilaravel\Core\Providers;
 
 use Illuminate\Bus\Dispatcher;
 use Illuminate\Support\ServiceProvider;
@@ -16,7 +16,7 @@ class BusServiceProvider extends ServiceProvider {
 		$dispatcher->mapUsing(function($command)
 		{
 			return Dispatcher::simpleMapping(
-				$command, 'Ilaravel\core\Commands', 'Ilaravel\core\Handlers\Commands'
+				$command, 'Ilaravel\Core\Commands', 'Ilaravel\Core\Handlers\Commands'
 			);
 		});
 	}

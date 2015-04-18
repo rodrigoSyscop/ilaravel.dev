@@ -139,11 +139,11 @@ return [
 		/*
 		 * Application Service Providers...
 		 */
-		'Ilaravel\core\Providers\AppServiceProvider',
-		'Ilaravel\core\Providers\BusServiceProvider',
-		'Ilaravel\core\Providers\ConfigServiceProvider',
-		'Ilaravel\core\Providers\EventServiceProvider',
-		'Ilaravel\core\Providers\RouteServiceProvider',
+		'Ilaravel\Core\Providers\AppServiceProvider',
+		'Ilaravel\Core\Providers\BusServiceProvider',
+		'Ilaravel\Core\Providers\ConfigServiceProvider',
+		'Ilaravel\Core\Providers\EventServiceProvider',
+		'Ilaravel\Core\Providers\RouteServiceProvider',
 
 	],
 
