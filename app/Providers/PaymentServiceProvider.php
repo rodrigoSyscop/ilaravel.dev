@@ -1,7 +1,6 @@
 <?php namespace Ilaravel\Core\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use Ilaravel\Core\Services\Payment\Paypal as PaypalService;
 
 class PaymentServiceProvider extends ServiceProvider {
 
@@ -22,8 +21,7 @@ class PaymentServiceProvider extends ServiceProvider {
 	 */
 	public function register()
 	{
-		$this->app->bind('payment', function() { return new PaypalService; } );
-
+		$this->app->bind('payment', 'Ilaravel\Core\Services\Payment\Paypal' );
 	}
 
 }
