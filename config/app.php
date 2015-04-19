@@ -194,6 +194,11 @@ return [
 		'Validator' => 'Illuminate\Support\Facades\Validator',
 		'View'      => 'Illuminate\Support\Facades\View',
 
+		/*
+		 * Application Facades...
+		 */
+		'Payment'		=> 'Ilaravel\Core\Facades\Payment',
+
 	],
 
 ];

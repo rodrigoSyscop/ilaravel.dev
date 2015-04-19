@@ -22,6 +22,5 @@ Route::controllers([
 
 
 Route::get('payment', function() {
-	$paypal = App::make('payment');
-	return $paypal->charge();
+	return Payment::charge();
 });
