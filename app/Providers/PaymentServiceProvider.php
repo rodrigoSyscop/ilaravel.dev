@@ -1,7 +1,5 @@
 <?php namespace Ilaravel\Core\Providers;
 
-use Illuminate\Support\ServiceProvider;
-
 class PaymentServiceProvider extends ServiceProvider {
 
 	/**

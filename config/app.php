@@ -144,7 +144,6 @@ return [
 		'Ilaravel\Core\Providers\ConfigServiceProvider',
 		'Ilaravel\Core\Providers\EventServiceProvider',
 		'Ilaravel\Core\Providers\RouteServiceProvider',
-		'Ilaravel\Core\Providers\PaymentServiceProvider',
 
 	],
 
@@ -193,11 +192,6 @@ return [
 		'URL'       => 'Illuminate\Support\Facades\URL',
 		'Validator' => 'Illuminate\Support\Facades\Validator',
 		'View'      => 'Illuminate\Support\Facades\View',
-
-		/*
-		 * Application Facades...
-		 */
-		'Payment'		=> 'Ilaravel\Core\Facades\Payment',
 
 	],
 

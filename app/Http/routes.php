@@ -21,6 +21,3 @@ Route::controllers([
 ]);
 
 
-Route::get('payment', function() {
-	return Payment::charge();
-});
