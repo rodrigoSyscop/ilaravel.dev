@@ -4,6 +4,9 @@ use Illuminate\Database\Eloquent\Model;
 
 class Article extends Model {
 
+	protected $fillable = ['title', 'slug', 'excerpt', 'content'];
+	protected $dates = ['deleted_at'];
+
 	public function user()
 	{
 			return $this->belongsTo('Ilaravel\Core\User');
