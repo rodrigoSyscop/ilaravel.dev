@@ -8,7 +8,7 @@ Pode parecer só mais um livro ensinando o caminho das pedras do Laravel, atrav�
 
 Apesar do livro se basear na versão 4.0 do framework, os conceitos de organização, padrões e boas práticas podem ser facilmente adaptados as versões mais recentes do framework. E é isso que tenho em mente com este projeto de acompanhamento da minha leitura do livro. Desenvolver a mesma aplicação, com todos os novos recursos fornecidos pela versão mais recente do Laravel mas seguindo a linha de raciocínio do [Fideloper](https://github.com/fideloper).
 
-Espero que vocês fiquem deslumbrados, da mesma forma como fiquei, ao compreender a elegância do Laravel, uma obra prima pintada por [Taylor Otwell](https://github.com/taylorotwell) e que tem se tornando peça chave na era do renasciemnto do PHP.
+Espero que vocês fiquem deslumbrados, da mesma forma como fiquei, ao compreender a elegância do Laravel, uma obra prima pintada por [Taylor Otwell](https://github.com/taylorotwell) e que tem se tornando peça chave na era do renascimento do PHP.
 
 Me acompanhem... 
 
